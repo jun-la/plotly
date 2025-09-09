@@ -203,3 +203,5 @@ $RECYCLE.BIN/
 
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
+
+communities_crime.data
