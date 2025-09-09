@@ -13,6 +13,14 @@ This project creates a comprehensive dashboard to explore violent crime rates in
 - **Features**: 128 attributes including demographics, socioeconomics, and law enforcement data
 - **Target Variable**: Violent crimes per capita (calculated from murder, rape, robbery, and assault)
 
+## Screenshots
+
+### Overview Dashboard
+![Overview Dashboard](./screenshot/stat.png)
+
+### US Map Visualization
+![US Map](./screenshot/map.png)
+
 ## Features
 
 ### 📊 Overview Dashboard
